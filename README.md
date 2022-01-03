@@ -18,6 +18,7 @@ What variable(s) are considered the target(s) for your model?
 
 What variable(s) are considered to be the features for your model?
 * The features are listed in the image below.
+
 ![image](https://user-images.githubusercontent.com/88340176/147959620-5f0618c8-cc71-4c30-a94c-05fa53fb42c7.png)
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
